@@ -1,18 +1,40 @@
 ## 📸 Screenshot
 !Website Screenshot
-## 🌐 Live Demo
-[Click here to view the site](https://rpriyanka894.github.io/docker-web-project/
 
-# My website
+# Dockerized Static Website
 
-This is a simple static website project containerized using Docker. It demonstrates how to serve a basic HTML/CSS website using a lightweight web server inside a Docker container.
+This project demonstrates how to containerize a static website using **Docker** for easy deployment and portability.
 
-## 🚀 Tech Stack
-- HTML
-- CSS
-- Docker
+---
 
-## 📦 How to Run
-1. Build the Docker image:
-   ```bash
-   docker build -t my-website .
+## 📌 Features
+- Simple static website built with HTML/CSS.
+- Dockerfile for creating a lightweight container.
+- Instructions to build, run, and access the website locally.
+
+---
+
+## 🛠️ Technologies Used
+- **Docker**
+- **Linux**
+- **Git**
+
+---
+
+## 🚀 How to Build, Run, and Access the Website
+Follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/rpriyanka894/docker-web-project.git
+
+# Build the Docker image
+docker build -t my-website .
+
+# Run the container
+docker run -d -p 8080:80 my-website
+
+# Access the website
+# Open your browser and go to:
+http://localhost:8080
+
