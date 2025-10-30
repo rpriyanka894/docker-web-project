@@ -1,5 +1,5 @@
 ## Project Screenshot
-!Project Screenshot
+![Project Screenshot](images/screenshot
 
 # Dockerized Static Website
 
