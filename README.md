@@ -1,7 +1,7 @@
 ## 📸 Screenshot
 !Website Screenshot
 ## 🌐 Live Demo
-[Click here to view the site](https://rpriyanka894.github.io/docker-web
+[Click here to view the site](https://rpriyanka894.github.io/docker-web-project/
 
 # My website
 
