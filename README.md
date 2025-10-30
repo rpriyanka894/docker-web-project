@@ -1,5 +1,5 @@
-## 📸 Screenshot
-!Website Screenshot
+## Project Screenshot
+!Project Screenshot
 
 # Dockerized Static Website
 
